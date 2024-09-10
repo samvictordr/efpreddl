@@ -1,6 +1,8 @@
 # efpreddl
 Ejection Fraction Predection using CNN (ResNet50 on ImageNet for DICOM recog)
 
+Use pip install -r requirements.txt to install dependencies
+
 ## How to run
 1. Clone this repo
 2. Download and navigate into the kaggle dataset.
