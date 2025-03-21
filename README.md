@@ -1,5 +1,5 @@
 # efpreddl
-Ejection Fraction Predection using CNN (ResNet50 on ImageNet for DICOM recog)
+Ejection Fraction Prediction using CNN (ResNet50 on ImageNet for DICOM recog)
 
 Use pip install -r requirements.txt to install dependencies
 
